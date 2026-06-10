@@ -3,9 +3,14 @@
 I'm Travis. A Computer Science student at Sac State graduating in Fall 2026. When I was twelve years old, I thought that computers were magic. I've been chasing silicon fairy dust ever since. This has led me to enjoy Software Development and, more recently, I've begun to explore Cybersecurity.
 
 ## Tools & Tech
-* **My Core Stack:** Java, Go, Flutter, Python, C, and Lua.
+* **My Core Languages:** Java, Go, Flutter, Python, C, and Lua.
 * **Operating Systems:** Windows and Linux.
 * **Use of AI:** Local and cloud LLM's to condense documentation; OpenCode and Antigravity for rapid prototypes.
+
+## Featured Project
+### CSUS Belonging Maps App
+* **Key Tech:** Flutter, ArcGIS Maps SDK, .NET8/10, Azure SQL
+* **Highlights:** Interactive location pins, organization filtering, and dynamic resource directory.
 
 ## Currently Learning
 * Mastering **Go** for high-performance, concurrent applications.
