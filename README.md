@@ -33,4 +33,4 @@ I'm Travis, a Computer Science student at Sac State graduating in Fall 2026. Whe
 ## Certifications
 * **Google Cybersecurity Professional Certificate** - [Verification](https://www.credly.com/badges/1fd2aa8c-cf80-4ed4-b9c9-28e26873e2d6/linked_in_profile)
 * **CISCO Security+** (*In Progress*)
-* **AWS Certified Solutions Architect** - Associate (*In Progress*)
+* **AWS Certified Solutions Architect - Associate** (*In Progress*)
