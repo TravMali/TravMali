@@ -11,7 +11,7 @@ I'm Travis, a Computer Science student at Sac State graduating in Fall 2026. Whe
     * **Agile Methodology:** Collaborated in a team environment using Jira for sprint planning, Figma for UI/UX prototyping, and ERD modeling for database integrity.
     * **User Experience:** Engineered features including "Open in Maps" deep-linking, image fallback UI, and organization-specific search filters.
 
-### Wazuh SIEM & SOC Lab (Coming soon)
+### [Wazuh SIEM & SOC Lab](https://github.com/TravMali/Wazuh-SIEM-SOC-Lab-)
 * **Key Tech:** Wazuh, VMware, Windows/Linux
 * **Highlights:**
     * **Infrastructure Deployment:** Architected and deployed a multi-VM security monitoring environment using VMware to centralize logs from Windows and Linux endpoints.
